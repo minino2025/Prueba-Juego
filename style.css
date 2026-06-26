@@ -5,6 +5,7 @@ html, body{
     justify-content: center;
     align-items: center;
     display: flex;
+    touch-action:none;
 }
 
 #Juego{
