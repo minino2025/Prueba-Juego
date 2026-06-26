@@ -278,7 +278,7 @@ setInterval(actualizar,20);
 
 //Salto Jugador
 
-document.addEventListener("keydown", function(event){
+document.addEventListener("touchstart", function(event){
 
     if(!Play){
         Play=true;
